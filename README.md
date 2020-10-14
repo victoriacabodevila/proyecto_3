@@ -1,7 +1,7 @@
 # proyecto_3
 **Proyecto 3 - Data Science - Acámica**
 
-##Aplicaciones actuales: Procesamiento del Lenguaje Natural (idioma español)
+## Aplicaciones actuales: Procesamiento del Lenguaje Natural (idioma español)
 
 **Objetivo**: Implementar un modelo que, dada la crítica de un producto, asigne la cantidad de estrellas correspondiente.
 
