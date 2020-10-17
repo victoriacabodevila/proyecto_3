@@ -20,6 +20,6 @@
 - Análisis de sentimientos 
 
 
-**Keywords**: spaCy, NLTK, Scikit-Learn, Lemmatization, Tokenization, TfIdf-Vectorizer, Decision Tree Classifier, Logistic Regression, LinearSVC, 5-stars approximation, Binary approximation, Feature Importance, Sentiment Analysis 
+**Keywords**: spaCy, NLTK, Scikit-Learn, Lemmatization, Tokenization, TfIdf-Vectorizer, Decision Tree Classifier, Logistic Regression, LinearSVC, 5-stars approximation, Binary approximation, Feature Importance, Sentiment Analysis
 
 ![Imagen](https://github.com/victoriacabodevila/proyecto_3/blob/main/Imagen.png)
